@@ -44,6 +44,10 @@ Saya adalah mahasiswa **Teknik Informatika di Politeknik Caltex Riau** yang sang
 
 ---
 
+### 📊 GitHub Activity & Stats
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BaBaL30&theme=github-compact)
+
+---
 ### 📫 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/miqbal30" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
