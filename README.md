@@ -1,9 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Hi%20there%20I%20am%20M.%20Iqbal&fontSize=50" />
+  <h1>Hi there, I'm M. Iqbal 👋</h1>
+  <p><strong>Apple Developer Academy @IL '26 | Fullstack Web Developer | UI/UX Enthusiast</strong></p>
 </div>
 
 <div align="center">
-  <h3>🚀 Apple Developer Academy @IL '26 | Fullstack Web Developer | UI/UX Enthusiast</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Stay%20hungry,%20stay%20foolish." alt="Quote" />
 </div>
 
 ---
@@ -45,14 +46,15 @@ Saya adalah mahasiswa **Teknik Informatika di Politeknik Caltex Riau** yang sang
 
 ### 📊 GitHub Activity & Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BaBaL30&show_icons=true&theme=radical&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BaBaL30&show_icons=true&theme=radical&count_private=true" alt="Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaBaL30&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaBaL30&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BaBaL30&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BaBaL30&theme=react-dark" width="100%" alt="Activity Graph" />
 </p>
+
 ---
 
 ### 📫 Connect with Me
